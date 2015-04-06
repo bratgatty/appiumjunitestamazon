@@ -1,0 +1,17 @@
+package name - in.amazon.mShop.android.shopping
+com.amazon.mShop.home.HomeActivity
+
+find_element(:id,"in.amazon.mShop.android.shopping:id/web_home_shop_by_department_label").click
+
+
+find_element(:id,"in.amazon.mShop.android.shopping:id/action_bar_search").click
+
+
+find_element(:id,"in.amazon.mShop.android.shopping:id/rs_search_src_text").send_keys "Mac"
+
+find_element(:id,"in.amazon.mShop.android.shopping:id/rs_search_dropdown_item_text").click
+
+
+find_element(:id,"in.amazon.mShop.android.shopping:id/rs_filter_header_label").click
+
+

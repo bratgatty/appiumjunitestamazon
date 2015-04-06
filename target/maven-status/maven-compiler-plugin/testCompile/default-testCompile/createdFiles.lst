@@ -1,0 +1,6 @@
+com/automationtest/amazon/page/HomePage.class
+com/automationtest/amazon/HomeTest.class
+com/automationtest/amazon/util/AppiumTest.class
+com/automationtest/amazon/util/CommonId.class
+com/automationtest/amazon/page/SearchPage.class
+com/automationtest/amazon/util/Helpers.class

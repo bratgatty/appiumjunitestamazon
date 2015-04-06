@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = "SAMSUNG"
+appPackage = "in.amazon.mShop.android.shopping"
+appActivity = "com.amazon.mShop.home.HomeActivity"

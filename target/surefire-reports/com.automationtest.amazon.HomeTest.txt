@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.automationtest.amazon.HomeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.239 sec - in com.automationtest.amazon.HomeTest
